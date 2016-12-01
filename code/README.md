@@ -3,11 +3,11 @@ Distributed minibatch K-Means for Document clustering
 
 
 Requirements:
-1. Java 8
-2. Ant
-3. Hadoop 2.6
-4. HARP
-5. Increase Xms if you're faced with memory overflow
+1. Java 8 <br />
+2. Ant <br />
+3. Hadoop 2.6 <br />
+4. HARP <br />
+5. Increase Xms if you're faced with memory overflow <br />
 
 
 Input: 
